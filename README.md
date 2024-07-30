@@ -42,9 +42,9 @@ The dataset used for this project is the "Life Expectancy WHO" dataset available
   - Average GDP of African countries.
   - Relationship between schooling and GDP.
 
-### 3. Data Visualization
-- **Tools**: PowerBI or Tableau.
-- **Purpose**: Create visual representations of data to identify trends, correlations, and changes over time.
+### 3. Data Visualization: https://prod-uk-a.online.tableau.com/#/site/elisatladixo1efce8283f/workbooks/1179189?:origin=card_share_link
+- **Tools**: Tableau.
+- **Purpose**: Create visual representations of data to identify if there is a relationship, trend or correlations, and changes over time.
 - **Visualizations include**:
   - Infant mortality rates.
   - GDP vs life expectancy.
